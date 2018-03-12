@@ -1,0 +1,1 @@
+{"users":{"John":{"name":"John","pswd":123,"dweets":[{"content":"abc","likes":68,"dislikes":43,"comments":["test","12345"]},{"content":"test2","likes":0,"dislikes":0,"comments":["123"]},{"content":"test3","likes":0,"dislikes":0,"comments":[]}],"followers":[]}}}
